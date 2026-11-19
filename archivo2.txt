@@ -1,0 +1,13 @@
+Productor 1 produjo: 1
+Productor 2 produjo: 2
+Consumidor 1 consumio: 1
+Consumidor 2 consumio: 2
+Productor 1 produjo: 3
+Productor 2 produjo: 4
+Consumidor 1 consumio: 3
+Productor 1 produjo: 5
+Consumidor 2 consumio: 4
+Productor 2 produjo: 6
+Consumidor 1 consumio: 5
+...
+Todos los productores y consumidores han terminado.
